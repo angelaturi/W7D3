@@ -1,6 +1,6 @@
 FactoryBot.define do 
     factory :user do 
-        username {Faker::Name.first_name}
+        username {Faker::FunnyName.name}
         password {'password123'}
 
         factory :coolest_user do 

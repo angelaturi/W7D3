@@ -1,0 +1,4 @@
+  [1m[35m (640.5ms)[0m  [1m[35mCREATE DATABASE "goalify_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (177.8ms)[0m  [1m[35mCREATE DATABASE "goalify_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
